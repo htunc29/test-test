@@ -1,0 +1,13 @@
+{
+  "title": "Örnek Kitap",
+  "description": "Bu kitap GitHub'dan içe aktarıldı.",
+  "language": "tr",
+  "tags": ["deneme", "roman"],
+  "category": "Edebiyat",
+  "ageRating": "Everyone",
+  "completionStatus": "Ongoing",
+  "chapters": [
+    { "title": "Giriş",        "file": "chapters/01-giris.md" },
+    { "title": "İkinci Bölüm", "file": "chapters/02-ikinci-bolum.md" }
+  ]
+}
